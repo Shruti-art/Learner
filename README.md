@@ -1,8 +1,7 @@
 # SHAPEAI WEB DEV BOOTCAMP
 Hi I made this project during during the 7 Days Free Bootcamp,conducted by<b>SHAPEAI</b>
 The instructure during the session was Mr Shaurya Sinha( a data Analyst at Jio). I got to learn a lot during these 7 Days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here'sthelinkforyoutowatchthesessionsaswell<br>
-<a href="https://youtube.com/playlist?list=PL7zl8TDRnbun7K0fECtSMCI2hOCgLBy9a">  
+<br><br>Here's the link for you to watch the sessions as well<br>
 <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/WebD%20poster.png%22%3E%3C/"></a>
 <br>I got to have hands on experience on:
 <li>HTML
